@@ -1,2 +1,2 @@
-for i in mpg:
-#     print(i[1])
+
+# Generating a 1D array of 5 random numbers
